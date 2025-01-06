@@ -38,3 +38,4 @@ Note: No additional tools or installations are required. A modern browser is suf
 ## Author
 Name: Bohdan Savchuk
 GitHub: Bogdan1412
+https://bogdan1412.github.io/Calculator-Application/
